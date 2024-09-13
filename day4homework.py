@@ -66,5 +66,4 @@ my_hw.right(40)
 my_hw.forward(50)
 my_hw.end_fill()
 
-
 turtle.done()
